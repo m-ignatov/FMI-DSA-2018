@@ -1,2 +1,2 @@
-# Data Structures and Algorithms Course
-
+# Data Structures and Algorithms course
+University-related work
