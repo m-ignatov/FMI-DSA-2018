@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 
 int arr[] = { 12,124,1,5,299,9 };
 int size = sizeof(arr) / sizeof(int);
